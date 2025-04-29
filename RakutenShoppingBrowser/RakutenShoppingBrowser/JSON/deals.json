@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "retailer": "Target",
+        "title": "20% off electronics",
+        "details": "Valid on TVs, laptops, and headphones.",
+        "imageName": "target_logo",
+        "imageURL": "https://purepng.com/public/uploads/large/purepng.com-target-logologobrand-logoiconslogos-251519939485oxces.png",
+        "dealURL": "https://target.com"
+    },
+    {
+        "id": 2,
+        "retailer": "Macy's",
+        "title": "Buy 1 Get 1 Free Shoes",
+        "details": "Available on select styles.",
+        "imageName": "macys_logo",
+        "imageURL": "https://purepng.com/public/uploads/large/purepng.com-macys-logologobrand-logoiconslogos-251519940050f1lyw.png",
+        "dealURL": "https://macys.com"
+    },
+    {
+        "retailer": "Nike",
+        "imageName": "nike_logo",
+        "imageURL": "https://purepng.com/public/uploads/large/purepng.com-nike-logologobrand-logoiconslogos-2515199407298sbym.png",
+        "dealURL": "https://macys.com"
+    },
+    {
+        "id": 3,
+        "retailer": "Best Buy",
+        "title": "15% off Home Appliances",
+        "details": "Includes refrigerators, ovens, and microwaves.",
+        "imageName": "bestbuy_logo",
+        "imageURL": "https://purepng.com/public/uploads/large/purepng.com-best-buy-logologobrand-logoiconslogos-2515199394357gbpw.png",
+        "dealURL": "https://bestbuy.com"
+    },
+    {
+        "id": 4,
+        "retailer": "Walmart",
+        "title": "10% Cashback on Groceries",
+        "details": "Minimum $50 spend required.",
+        "imageName": "walmart_logo",
+        "imageURL": "https://purepng.com/public/uploads/large/purepng.com-walmart-vertical-logologobrand-logoiconslogos-2515199388322jxhn.png",
+        "dealURL": "https://walmart.com"
+    },
+    {
+        "id": 5,
+        "retailer": "Amazon",
+        "title": "1 Year of FREE Prime",
+        "dealURL": "https://walmart.com"
+    },
+]

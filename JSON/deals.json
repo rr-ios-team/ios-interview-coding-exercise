@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "retailer": "Target",
+        "title": "20% off electronics",
+        "details": "Valid on TVs, laptops, and headphones.",
+        "imageURL": "target_logo.jpg",
+        "dealURL": "https://target.com"
+    },
+    {
+        "id": 2,
+        "retailer": "Macy's",
+        "title": "Buy 1 Get 1 Free Shoes",
+        "details": "Available on select styles.",
+        "imageURL": "macys_logo.jpg",
+        "dealURL": "https://macys.com"
+    },
+    {
+        "id": 3,
+        "retailer": "Best Buy",
+        "title": "15% off Home Appliances",
+        "details": "Includes refrigerators, ovens, and microwaves.",
+        "imageURL": "bestbuy_logo.jpg",
+        "dealURL": "https://bestbuy.com"
+    },
+    {
+        "id": 4,
+        "retailer": "Walmart",
+        "title": "10% Cashback on Groceries",
+        "details": "Minimum $50 spend required.",
+        "imageURL": "walmart_logo.jpg",
+        "dealURL": "https://walmart.com"
+    }
+]

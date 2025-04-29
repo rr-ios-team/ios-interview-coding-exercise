@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		0696A62E2D2C5C9300CF5EBF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0696A6152D2C5C9100CF5EBF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0696A61C2D2C5C9100CF5EBF;
+			remoteInfo = RakutenShoppingBrowser;
+		};
+		0696A6382D2C5C9300CF5EBF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0696A6152D2C5C9100CF5EBF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0696A61C2D2C5C9100CF5EBF;
+			remoteInfo = RakutenShoppingBrowser;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		0696A61D2D2C5C9100CF5EBF /* RakutenShoppingBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RakutenShoppingBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0696A62D2D2C5C9300CF5EBF /* RakutenShoppingBrowserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RakutenShoppingBrowserTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0696A6372D2C5C9300CF5EBF /* RakutenShoppingBrowserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RakutenShoppingBrowserUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		0696A61F2D2C5C9100CF5EBF /* RakutenShoppingBrowser */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = RakutenShoppingBrowser;
+			sourceTree = "<group>";
+		};
+		0696A6302D2C5C9300CF5EBF /* RakutenShoppingBrowserTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = RakutenShoppingBrowserTests;
+			sourceTree = "<group>";
+		};
+		0696A63A2D2C5C9300CF5EBF /* RakutenShoppingBrowserUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = RakutenShoppingBrowserUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0696A61A2D2C5C9100CF5EBF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0696A62A2D2C5C9300CF5EBF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0696A6342D2C5C9300CF5EBF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0696A6142D2C5C9100CF5EBF = {
+			isa = PBXGroup;
+			children = (
+				0696A61F2D2C5C9100CF5EBF /* RakutenShoppingBrowser */,
+				0696A6302D2C5C9300CF5EBF /* RakutenShoppingBrowserTests */,
+				0696A63A2D2C5C9300CF5EBF /* RakutenShoppingBrowserUITests */,
+				0696A61E2D2C5C9100CF5EBF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0696A61E2D2C5C9100CF5EBF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0696A61D2D2C5C9100CF5EBF /* RakutenShoppingBrowser.app */,
+				0696A62D2D2C5C9300CF5EBF /* RakutenShoppingBrowserTests.xctest */,
+				0696A6372D2C5C9300CF5EBF /* RakutenShoppingBrowserUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0696A61C2D2C5C9100CF5EBF /* RakutenShoppingBrowser */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0696A6412D2C5C9300CF5EBF /* Build configuration list for PBXNativeTarget "RakutenShoppingBrowser" */;
+			buildPhases = (
+				0696A6192D2C5C9100CF5EBF /* Sources */,
+				0696A61A2D2C5C9100CF5EBF /* Frameworks */,
+				0696A61B2D2C5C9100CF5EBF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				0696A61F2D2C5C9100CF5EBF /* RakutenShoppingBrowser */,
+			);
+			name = RakutenShoppingBrowser;
+			packageProductDependencies = (
+			);
+			productName = RakutenShoppingBrowser;
+			productReference = 0696A61D2D2C5C9100CF5EBF /* RakutenShoppingBrowser.app */;
+			productType = "com.apple.product-type.application";
+		};
+		0696A62C2D2C5C9300CF5EBF /* RakutenShoppingBrowserTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0696A6442D2C5C9300CF5EBF /* Build configuration list for PBXNativeTarget "RakutenShoppingBrowserTests" */;
+			buildPhases = (
+				0696A6292D2C5C9300CF5EBF /* Sources */,
+				0696A62A2D2C5C9300CF5EBF /* Frameworks */,
+				0696A62B2D2C5C9300CF5EBF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0696A62F2D2C5C9300CF5EBF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				0696A6302D2C5C9300CF5EBF /* RakutenShoppingBrowserTests */,
+			);
+			name = RakutenShoppingBrowserTests;
+			packageProductDependencies = (
+			);
+			productName = RakutenShoppingBrowserTests;
+			productReference = 0696A62D2D2C5C9300CF5EBF /* RakutenShoppingBrowserTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		0696A6362D2C5C9300CF5EBF /* RakutenShoppingBrowserUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0696A6472D2C5C9300CF5EBF /* Build configuration list for PBXNativeTarget "RakutenShoppingBrowserUITests" */;
+			buildPhases = (
+				0696A6332D2C5C9300CF5EBF /* Sources */,
+				0696A6342D2C5C9300CF5EBF /* Frameworks */,
+				0696A6352D2C5C9300CF5EBF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0696A6392D2C5C9300CF5EBF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				0696A63A2D2C5C9300CF5EBF /* RakutenShoppingBrowserUITests */,
+			);
+			name = RakutenShoppingBrowserUITests;
+			packageProductDependencies = (
+			);
+			productName = RakutenShoppingBrowserUITests;
+			productReference = 0696A6372D2C5C9300CF5EBF /* RakutenShoppingBrowserUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0696A6152D2C5C9100CF5EBF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					0696A61C2D2C5C9100CF5EBF = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					0696A62C2D2C5C9300CF5EBF = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 0696A61C2D2C5C9100CF5EBF;
+					};
+					0696A6362D2C5C9300CF5EBF = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 0696A61C2D2C5C9100CF5EBF;
+					};
+				};
+			};
+			buildConfigurationList = 0696A6182D2C5C9100CF5EBF /* Build configuration list for PBXProject "RakutenShoppingBrowser" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0696A6142D2C5C9100CF5EBF;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 0696A61E2D2C5C9100CF5EBF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0696A61C2D2C5C9100CF5EBF /* RakutenShoppingBrowser */,
+				0696A62C2D2C5C9300CF5EBF /* RakutenShoppingBrowserTests */,
+				0696A6362D2C5C9300CF5EBF /* RakutenShoppingBrowserUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0696A61B2D2C5C9100CF5EBF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0696A62B2D2C5C9300CF5EBF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0696A6352D2C5C9300CF5EBF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0696A6192D2C5C9100CF5EBF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0696A6292D2C5C9300CF5EBF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0696A6332D2C5C9300CF5EBF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0696A62F2D2C5C9300CF5EBF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0696A61C2D2C5C9100CF5EBF /* RakutenShoppingBrowser */;
+			targetProxy = 0696A62E2D2C5C9300CF5EBF /* PBXContainerItemProxy */;
+		};
+		0696A6392D2C5C9300CF5EBF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0696A61C2D2C5C9100CF5EBF /* RakutenShoppingBrowser */;
+			targetProxy = 0696A6382D2C5C9300CF5EBF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0696A63F2D2C5C9300CF5EBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0696A6402D2C5C9300CF5EBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0696A6422D2C5C9300CF5EBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"RakutenShoppingBrowser/Preview Content\"";
+				DEVELOPMENT_TEAM = 8SV35BWXT7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rakuten.RakutenShoppingBrowser;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0696A6432D2C5C9300CF5EBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"RakutenShoppingBrowser/Preview Content\"";
+				DEVELOPMENT_TEAM = 8SV35BWXT7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rakuten.RakutenShoppingBrowser;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		0696A6452D2C5C9300CF5EBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8SV35BWXT7;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rakuten.RakutenShoppingBrowserTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RakutenShoppingBrowser.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RakutenShoppingBrowser";
+			};
+			name = Debug;
+		};
+		0696A6462D2C5C9300CF5EBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8SV35BWXT7;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rakuten.RakutenShoppingBrowserTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RakutenShoppingBrowser.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RakutenShoppingBrowser";
+			};
+			name = Release;
+		};
+		0696A6482D2C5C9300CF5EBF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8SV35BWXT7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rakuten.RakutenShoppingBrowserUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = RakutenShoppingBrowser;
+			};
+			name = Debug;
+		};
+		0696A6492D2C5C9300CF5EBF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8SV35BWXT7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rakuten.RakutenShoppingBrowserUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = RakutenShoppingBrowser;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0696A6182D2C5C9100CF5EBF /* Build configuration list for PBXProject "RakutenShoppingBrowser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0696A63F2D2C5C9300CF5EBF /* Debug */,
+				0696A6402D2C5C9300CF5EBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0696A6412D2C5C9300CF5EBF /* Build configuration list for PBXNativeTarget "RakutenShoppingBrowser" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0696A6422D2C5C9300CF5EBF /* Debug */,
+				0696A6432D2C5C9300CF5EBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0696A6442D2C5C9300CF5EBF /* Build configuration list for PBXNativeTarget "RakutenShoppingBrowserTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0696A6452D2C5C9300CF5EBF /* Debug */,
+				0696A6462D2C5C9300CF5EBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0696A6472D2C5C9300CF5EBF /* Build configuration list for PBXNativeTarget "RakutenShoppingBrowserUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0696A6482D2C5C9300CF5EBF /* Debug */,
+				0696A6492D2C5C9300CF5EBF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0696A6152D2C5C9100CF5EBF /* Project object */;
+}
